@@ -4,6 +4,8 @@ Requirements:
 - Create scrapper
 - Build clean standards data.
 - Simple way to present your data in map, graphs or charts.
+
+
 Libraries used for scrapping:
 - Selenium
 - BeautifulSoup
